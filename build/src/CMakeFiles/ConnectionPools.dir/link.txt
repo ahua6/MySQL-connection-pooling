@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/ConnectionPools.dir/connection.cpp.o CMakeFiles/ConnectionPools.dir/connectionpools.cpp.o CMakeFiles/ConnectionPools.dir/main.cpp.o  -o ../../bin/ConnectionPools  -lmysqlclient -lpthread 
